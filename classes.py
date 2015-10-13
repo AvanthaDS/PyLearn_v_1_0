@@ -17,3 +17,4 @@ enemy1.attack()
 enemy1.attack()
 enemy1.checklife()
 enemy2.checklife()
+# comment
