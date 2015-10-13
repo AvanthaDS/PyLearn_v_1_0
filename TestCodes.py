@@ -2,7 +2,14 @@ __author__ = 'Avantha'
 
 import time
 
-print('avantha de silva')
+
+class Aclas:
+    def __init__(self, name):
+        self.name = name
+        print(name)
+
+
+Aclas('Avantha')
 x = time.time()
 print(x)
 time.sleep(5)
